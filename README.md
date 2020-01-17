@@ -1,4 +1,5 @@
 # Учебная практика УП 01 - 2020
+**Итоги:**
 * [Результаты работы](https://docs.google.com/spreadsheets/d/1yexq0MScrVldMug2pKapVjC_q3ecXadcP78nNRgwhAs/edit?usp=sharing)
 * [Сам. работа 16.01](https://docs.google.com/spreadsheets/d/18DdQ_SMcpfakqzgfVd-rSzSRFK2qEmLZAHnrkSos8lA/edit?usp=sharing)
 
