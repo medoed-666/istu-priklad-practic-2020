@@ -11,3 +11,4 @@
 * [День 5](https://github.com/Nordth/istu-priklad-practic-2020/blob/master/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_%D0%BF%D0%BF_2020_05.pdf)
 * [День 6](https://github.com/Nordth/istu-priklad-practic-2020/blob/master/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_%D0%BF%D0%BF_2020_06.pdf)
 * [День 7](https://github.com/Nordth/istu-priklad-practic-2020/blob/master/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_%D0%BF%D0%BF_2020_07.pdf)
+* [День 8](https://github.com/Nordth/istu-priklad-practic-2020/blob/master/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_%D0%BF%D0%BF_2020_08.pdf)
